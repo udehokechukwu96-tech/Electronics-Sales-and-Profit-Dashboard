@@ -31,7 +31,7 @@ This project is a Power BI dashboard designed to analyze sales performance over 
 ## ⚙️How to Use
 1. Clone or download this repository
 2. Open  the '.pbix' file using **Power BI Desktop**
-3. Click **Refresh** to load load the data
+3. Click **Refresh** to load the data
 4. Use slicers to filter by region or gender
 5. Analyze KPIs and visualize trends
 
