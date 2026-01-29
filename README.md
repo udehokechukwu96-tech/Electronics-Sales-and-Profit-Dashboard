@@ -1,5 +1,5 @@
 # 📊Electronics-Sales-and-Profit-Dashboard
-This project analyzes sales data to track monthly revenue and customer trend using Power BI.
+This project analyzes sales data to track monthly revenue and profit trend using Power BI.
 
 ## 🔎Project Overview
 This project is a Power BI dashboard designed to analyze sales performance over a three-month period. The objective was to provide insight into revenue and profit trend over a three-month period so as to arm stakeholders and business managers with insight, supporting data-driven decisions.
